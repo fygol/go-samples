@@ -1,4 +1,12 @@
-// pointer is a variable which stores the address of another variable.
+/* 
+
+Pointer is a variable which stores the address of another variable.
+& operator - yields the address of a variable.
+* operator - retrieves the variable that the pointer refers to.
+There is no pointer arithmetic.
+
+*/
+
 package main
 
 import (
